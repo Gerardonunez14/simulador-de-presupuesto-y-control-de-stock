@@ -1,0 +1,12 @@
+{
+  "name": "simulador-pryecto-stock",
+  "version": "1.0.0",
+  "description": "tp node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "author": "Morales Leandro,Nuñez Gerardo,Rodriguez Nicolas",
+  "license": "ISC"
+}

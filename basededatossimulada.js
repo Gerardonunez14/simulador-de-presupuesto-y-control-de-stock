@@ -1,3 +1,4 @@
+// Define una base de datos simulada con los productos que pueden venderse.
 const productos = [
   {
     id: 1,
@@ -19,4 +20,5 @@ const productos = [
   }
 ];
 
+// Exporta el arreglo para que otras partes del programa puedan usarlo.
 export default productos;
